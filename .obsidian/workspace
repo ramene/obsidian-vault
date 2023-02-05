@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "64a2c695f8c56a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f7c3dff808e8e0",
+        "type": "leaf",
+        "dimension": 20.577800304105423,
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      },
+      {
+        "id": "2751a50fc9d707f2",
+        "type": "leaf",
+        "dimension": 42.57475924987329,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Idea Hour.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4a5b166fd8b56b70",
+        "type": "split",
+        "dimension": 36.84744044602129,
+        "children": [
+          {
+            "id": "936a4446ce6dfc10",
+            "type": "leaf",
+            "dimension": 49.67845659163987,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221015.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2d20fad8be759621",
+            "type": "leaf",
+            "dimension": 50.32154340836013,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bef2518a743424cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a79df8b3a856b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d1b9ddd1708ae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7c9e9b53ad433da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "566b23f7abe96066",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tiago-forte",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "2ce055939c57508c",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c06853cb114e8f",
+        "type": "tabs",
+        "dimension": 49.75677553856845,
+        "children": [
+          {
+            "id": "fb24a226e6bd5cc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4cbcc57b6b04ce6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab80bf9138477a6f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e4c52842ebcc5bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9839f977c0b42c80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md"
+              }
+            }
+          },
+          {
+            "id": "0e27a935615cf00b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ea5c35fa2bf27a43",
+        "type": "tabs",
+        "dimension": 50.243224461431545,
+        "children": [
+          {
+            "id": "88879277645a6bf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moodboard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.66009521484375
+  },
+  "active": "2d20fad8be759621",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20221013.md",
+    "Day Planners/Day Planner-20221012.md",
+    "Day Planners/Day Planner-20221010.md",
+    "Day Planners/Day Planner-20221009.md",
+    "Day Planners/Day Planner-20221011.md",
+    "Day Planners/Day Planner-20221014.md",
+    "Day Planners/Day Planner-20221015.md",
+    "periodical/__daily/October 14th, 2022.md",
+    "periodical/__daily/October 11th, 2022.md",
+    "periodical/__daily/October 15th, 2022.md"
+  ]
+}

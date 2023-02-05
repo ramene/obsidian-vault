@@ -1,0 +1,14 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "textFontFamily": "Andale Mono",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Andale Mono",
+  "baseFontSizeAction": true,
+  "accentColor": "#aac4cf",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": []
+}

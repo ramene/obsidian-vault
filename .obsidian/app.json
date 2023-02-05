@@ -1,0 +1,33 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "open-with-default-app": true,
+    "file-recovery": true,
+    "page-preview": true
+  },
+  "alwaysUpdateLinks": true,
+  "enabledPlugins": [],
+  "attachmentFolderPath": "assets/__media",
+  "obsidianCss": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 64
+  },
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "spellcheck": false,
+  "foldHeading": true,
+  "showLineNumber": false
+}

@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbStar",
+      "IbHeartbeatMonitor",
+      "IbCommand",
+      "IbFlame",
+      "IbContrast"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "emojiStyle": "none"
+  },
+  "assets": "IbDashboard",
+  "Day Planners": "IbHotBrew",
+  "mindmap.md": "IbDpad",
+  "philosophers stone": "IbDashboardOneIsFilled",
+  "proclivities": "IbHeartbeatMonitor",
+  "proclivities/__deepnotes": "IbAcademicBook",
+  "proclivities/__swimlanes": "IbBell",
+  "proclivities/__swimlanes/GTD.md": "IbContrast",
+  "Odoo v15.x.md": "IbStar",
+  "public domain": "IbContrast"
+}

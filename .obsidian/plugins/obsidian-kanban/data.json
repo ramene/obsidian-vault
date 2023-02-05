@@ -1,0 +1,16 @@
+{
+  "hide-date-display": true,
+  "hide-date-in-title": true,
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ],
+  "link-date-to-daily-note": true,
+  "prepend-archive-date": true,
+  "date-picker-week-start": null
+}

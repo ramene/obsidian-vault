@@ -1,0 +1,12 @@
+{
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@tag-radius": "14px",
+  "minimal-style@@titlebar-text-weight": 300,
+  "minimal-style@@window-title-off": true,
+  "minimal-style@@file-header-visibility": "minimal-tab-title-visible",
+  "minimal-style@@tab-stacked-spine-orientation": "tab-stack-top",
+  "minimal-style@@tabs-style": "tabs-default",
+  "CodeMirror Options@@cm5-minimal-embeds": true,
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-material-palenight",
+  "CodeMirror Options@@cm-wrap-lines": "pre"
+}
